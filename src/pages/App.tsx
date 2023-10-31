@@ -11,7 +11,7 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             React Typescript / Eslint / Prettier / StoryBook / Husky setup
-            Boilerplate test IDX Project
+            Boilerplate test IDX Project number 2
           </p>
           <a
             className="App-link"
